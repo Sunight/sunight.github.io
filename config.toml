@@ -1,0 +1,4 @@
+baseURL = 'https://imdonkey.com/'
+languageCode = 'en-us'
+title = 'Im Donkey'
+theme = "ananke"
